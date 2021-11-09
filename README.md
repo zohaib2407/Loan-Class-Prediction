@@ -1,5 +1,5 @@
 # Loan-Class-Prediction
-This is an academic project for predicting status of a loan.
+This is an analysis project for predicting status of a loan.
 
 In this analysis, we will analyze data from an online lending platform, Lending Club. The goal is to
 develop models to predict which loans are at risk of default. Such models can then be used to devise
