@@ -80,7 +80,7 @@ The total number of loans and proportion of fully paid loans is highest for thos
 
 
 
-### Next : Predictions using machine learning
+### Next : Data Cleaning and Predictions using machine learning
 
 
 
